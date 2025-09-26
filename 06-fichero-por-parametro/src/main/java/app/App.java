@@ -5,7 +5,7 @@ import service.FileService;
 public class App {
     public static void main(String[] args) {
         if (args.length < 2) {
-            System.out.println("Uso: java -jar programa.jar <C:\\Users\\adriq\\OneDrive\\Escritorio\\DAM\\Acceso a datos> <C:\\Users\\adriq\\OneDrive\\Escritorio\\DAM\\Acceso a datos\\06-fichero-por-parametro>");
+            System.out.println("Uso: java -jar programa.jar <carpetaOrigen> <ficheroSalida>");
             return;
         }
 
