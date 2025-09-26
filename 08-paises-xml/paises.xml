@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<paises>
+    <pais nombre="Italia">
+        <capital>Roma</capital>
+        <poblacion>60.36</poblacion>
+    </pais>
+    <pais nombre="Spain">
+        <capital>Madrid</capital>
+        <poblacion>4694</poblacion>
+    </pais>
+</paises>
