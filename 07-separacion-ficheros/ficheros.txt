@@ -1,0 +1,5 @@
+Despedida.txt; F; [R, W]; 6
+listado.txt; F; [R, W]; 147
+Saludos.txt; F; [R, W]; 37
+README.md; F; [R, W]; 181
+enteros.dat; F; [R, W]; 12

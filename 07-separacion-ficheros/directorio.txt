@@ -1,0 +1,8 @@
+06-listadoFicheros-dao; D; [X, R, W]; 4096
+.idea; D; [X, R, W]; 4096
+03-scanner-dao; D; [X, R, W]; 4096
+.git; D; [X, R, W]; 4096
+08-paises-xml; D; [X, R, W]; 4096
+07-separacion-ficheros; D; [X, R, W]; 4096
+04-numerosscanner-dao; D; [X, R, W]; 4096
+06-fichero-por-parametro; D; [X, R, W]; 4096

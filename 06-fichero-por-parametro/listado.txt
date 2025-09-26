@@ -1,0 +1,14 @@
+06-listadoFicheros-dao; D; [X, R, W]; 4096
+Despedida.txt; F; [R, W]; 6
+.idea; D; [X, R, W]; 4096
+listado.txt; F; [R, W]; 147
+03-scanner-dao; D; [X, R, W]; 4096
+Saludos.txt; F; [R, W]; 37
+.git; D; [X, R, W]; 4096
+directorio.txt; F; [R, W]; 0
+08-paises-xml; D; [X, R, W]; 4096
+07-separacion-ficheros; D; [X, R, W]; 4096
+README.md; F; [R, W]; 181
+enteros.dat; F; [R, W]; 12
+04-numerosscanner-dao; D; [X, R, W]; 4096
+06-fichero-por-parametro; D; [X, R, W]; 4096

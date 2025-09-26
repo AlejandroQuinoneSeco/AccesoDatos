@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <xs:element name="Vehiculos">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="vehiculo" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+	
+	<xs:element name="vehiculo">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="marca" type="xs:string"/>
+				<xs:element name="modelo" type="xs:string"/>
+				<xs:element name="color" type="xs:string"/>
+				<xs:element name="anio" type="xs:int"/>
+				<xs:element name="categoria" type="xs:string"/>
+				<xs:element ref="sucursal"/>
+				<xs:element name="combustible" type="xs:string"/>
+				<!-- Nuevos elementos -->
+				<xs:element name="precio" type="xs:decimal"/>
+				<xs:element name="descuento" type="xs:decimal"/>
+				<xs:element ref="costes"/>
+			</xs:sequence>
+			<xs:attribute name="matricula" type="xs:string" use="required"/>
+			<xs:attribute name="bastidor" type="xs:string" use="required"/>
+		</xs:complexType>
+	</xs:element>
+				
+	<xs:element name="sucursal">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="calle" type="xs:string"/>
+				<xs:element name="ciudad" type="xs:string"/>
+				<xs:element name="pais" type="xs:string"/>
+				<xs:element name="cp" type="xs:string"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="costes">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="costesDerivados" type="xs:decimal"/>
+				<xs:element name="costesDirectos" type="xs:decimal"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+</xs:schema>

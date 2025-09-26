@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Vehiculos>
+    <vehiculo matricula="1234BCD" bastidor="WVWZZZ1JZXW000001">
+        <marca>Seat</marca>
+        <modelo>Ibiza</modelo>
+        <color>Rojo</color>
+        <anio>2015</anio>
+        <categoria>M</categoria>
+        <sucursal>
+            <calle>Calle Sol 1</calle>
+            <ciudad>Madrid</ciudad>
+            <pais>España</pais>
+            <cp>28001</cp>
+        </sucursal>
+        <combustible>Gasolina</combustible>
+        <precio>397.11</precio>
+        <descuento>17.87</descuento>
+        <costes>
+            <costesIndirectos>17.97</costesIndirectos>
+            <costesDirectos>67.45</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="2345FGH" bastidor="VSSZZZ6JZXR000002">
+        <marca>Toyota</marca>
+        <modelo>Yaris</modelo>
+        <color>Negro</color>
+        <anio>2017</anio>
+        <categoria>M</categoria>
+        <sucursal>
+            <calle>Calle Luna 2</calle>
+            <ciudad>Madrid</ciudad>
+            <pais>España</pais>
+            <cp>28002</cp>
+        </sucursal>
+        <combustible>Diésel</combustible>
+        <precio>236.01</precio>
+        <descuento>2.48</descuento>
+        <costes>
+            <costesIndirectos>86.67</costesIndirectos>
+            <costesDirectos>10.06</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="3456JKL" bastidor="VF7ZZZC3ZXR000003">
+        <marca>Citroën</marca>
+        <modelo>C3</modelo>
+        <color>Blanco</color>
+        <anio>2018</anio>
+        <categoria>M</categoria>
+        <sucursal>
+            <calle>Av. Andalucía 10</calle>
+            <ciudad>Sevilla</ciudad>
+            <pais>España</pais>
+            <cp>41001</cp>
+        </sucursal>
+        <combustible>Gasolina</combustible>
+        <precio>234.4</precio>
+        <descuento>10.92</descuento>
+        <costes>
+            <costesIndirectos>138.27</costesIndirectos>
+            <costesDirectos>4.28</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="4567MNP" bastidor="W0L0XCF0814000004">
+        <marca>Opel</marca>
+        <modelo>Corsa</modelo>
+        <color>Gris</color>
+        <anio>2020</anio>
+        <categoria>M</categoria>
+        <sucursal>
+            <calle>Calle Real 5</calle>
+            <ciudad>Sevilla</ciudad>
+            <pais>España</pais>
+            <cp>41002</cp>
+        </sucursal>
+        <combustible>Diésel</combustible>
+        <precio>437.89</precio>
+        <descuento>9.9</descuento>
+        <costes>
+            <costesIndirectos>51.25</costesIndirectos>
+            <costesDirectos>72.41</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="5678RST" bastidor="VF1CLIO0X54000005">
+        <marca>Renault</marca>
+        <modelo>Clio</modelo>
+        <color>Azul</color>
+        <anio>2019</anio>
+        <categoria>E</categoria>
+        <sucursal>
+            <calle>Gran Vía 20</calle>
+            <ciudad>Barcelona</ciudad>
+            <pais>España</pais>
+            <cp>08001</cp>
+        </sucursal>
+        <combustible>Gasolina</combustible>
+        <precio>482.76</precio>
+        <descuento>16.99</descuento>
+        <costes>
+            <costesIndirectos>51.41</costesIndirectos>
+            <costesDirectos>12.64</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="6789VWX" bastidor="VF3CCHMRTR0000006">
+        <marca>Peugeot</marca>
+        <modelo>208</modelo>
+        <color>Rojo</color>
+        <anio>2016</anio>
+        <categoria>E</categoria>
+        <sucursal>
+            <calle>Diagonal 33</calle>
+            <ciudad>Barcelona</ciudad>
+            <pais>España</pais>
+            <cp>08002</cp>
+        </sucursal>
+        <combustible>Diésel</combustible>
+        <precio>143.16</precio>
+        <descuento>2.19</descuento>
+        <costes>
+            <costesIndirectos>67.91</costesIndirectos>
+            <costesDirectos>17.27</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="7890YZB" bastidor="WVWZZZ6RZXR000007">
+        <marca>Volkswagen</marca>
+        <modelo>Polo</modelo>
+        <color>Negro</color>
+        <anio>2014</anio>
+        <categoria>E</categoria>
+        <sucursal>
+            <calle>Av. Galicia 50</calle>
+            <ciudad>Vigo</ciudad>
+            <pais>España</pais>
+            <cp>36201</cp>
+        </sucursal>
+        <combustible>Gasolina</combustible>
+        <precio>321.31</precio>
+        <descuento>19.07</descuento>
+        <costes>
+            <costesIndirectos>11.82</costesIndirectos>
+            <costesDirectos>110.41</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="8901CDF" bastidor="WF0JXXGAJJ0000008">
+        <marca>Ford</marca>
+        <modelo>Fiesta</modelo>
+        <color>Blanco</color>
+        <anio>2013</anio>
+        <categoria>E</categoria>
+        <sucursal>
+            <calle>Calle Norte 4</calle>
+            <ciudad>Vigo</ciudad>
+            <pais>España</pais>
+            <cp>36202</cp>
+        </sucursal>
+        <combustible>Diésel</combustible>
+        <precio>411.06</precio>
+        <descuento>6.83</descuento>
+        <costes>
+            <costesIndirectos>41.43</costesIndirectos>
+            <costesDirectos>59.94</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="9012FGH" bastidor="VSSZZZ5FZVR000009">
+        <marca>Seat</marca>
+        <modelo>León</modelo>
+        <color>Gris</color>
+        <anio>2021</anio>
+        <categoria>C</categoria>
+        <sucursal>
+            <calle>Calle Central 11</calle>
+            <ciudad>Valencia</ciudad>
+            <pais>España</pais>
+            <cp>46001</cp>
+        </sucursal>
+        <combustible>Gasolina</combustible>
+        <precio>214.84</precio>
+        <descuento>15.06</descuento>
+        <costes>
+            <costesIndirectos>18.83</costesIndirectos>
+            <costesDirectos>92.76</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="1122JKL" bastidor="WVWZZZ1JZVR000010">
+        <marca>Volkswagen</marca>
+        <modelo>Golf</modelo>
+        <color>Rojo</color>
+        <anio>2020</anio>
+        <categoria>C</categoria>
+        <sucursal>
+            <calle>Av. Puerto 25</calle>
+            <ciudad>Valencia</ciudad>
+            <pais>España</pais>
+            <cp>46002</cp>
+        </sucursal>
+        <combustible>Diésel</combustible>
+        <precio>212.64</precio>
+        <descuento>5.02</descuento>
+        <costes>
+            <costesIndirectos>122.9</costesIndirectos>
+            <costesDirectos>24.27</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="2233MNP" bastidor="VF3C5HNZXR000011">
+        <marca>Peugeot</marca>
+        <modelo>308</modelo>
+        <color>Azul</color>
+        <anio>2017</anio>
+        <categoria>C</categoria>
+        <sucursal>
+            <calle>Calle Mayor 3</calle>
+            <ciudad>Bilbao</ciudad>
+            <pais>España</pais>
+            <cp>48001</cp>
+        </sucursal>
+        <combustible>Gasolina</combustible>
+        <precio>399.32</precio>
+        <descuento>9.19</descuento>
+        <costes>
+            <costesIndirectos>10.79</costesIndirectos>
+            <costesDirectos>129.33</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="3344RST" bastidor="W0L0XCF0812000012">
+        <marca>Opel</marca>
+        <modelo>Astra</modelo>
+        <color>Negro</color>
+        <anio>2018</anio>
+        <categoria>C</categoria>
+        <sucursal>
+            <calle>Av. Libertad 7</calle>
+            <ciudad>Bilbao</ciudad>
+            <pais>España</pais>
+            <cp>48002</cp>
+        </sucursal>
+        <combustible>Diésel</combustible>
+        <precio>327.21</precio>
+        <descuento>12.61</descuento>
+        <costes>
+            <costesIndirectos>64.1</costesIndirectos>
+            <costesDirectos>56.77</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="4455VWX" bastidor="VF1BM0F0XJ0000013">
+        <marca>Renault</marca>
+        <modelo>Mégane</modelo>
+        <color>Blanco</color>
+        <anio>2016</anio>
+        <categoria>C</categoria>
+        <sucursal>
+            <calle>Calle Castilla 9</calle>
+            <ciudad>Santander</ciudad>
+            <pais>España</pais>
+            <cp>39001</cp>
+        </sucursal>
+        <combustible>Gasolina</combustible>
+        <precio>390.3</precio>
+        <descuento>10.62</descuento>
+        <costes>
+            <costesIndirectos>66.32</costesIndirectos>
+            <costesDirectos>7.09</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="5566YZB" bastidor="WAUZZZ8V0JA000014">
+        <marca>Audi</marca>
+        <modelo>A3</modelo>
+        <color>Gris</color>
+        <anio>2019</anio>
+        <categoria>C</categoria>
+        <sucursal>
+            <calle>Calle Prado 12</calle>
+            <ciudad>Toledo</ciudad>
+            <pais>España</pais>
+            <cp>45001</cp>
+        </sucursal>
+        <combustible>Diésel</combustible>
+        <precio>461.81</precio>
+        <descuento>7.69</descuento>
+        <costes>
+            <costesIndirectos>47.27</costesIndirectos>
+            <costesDirectos>44.11</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="6677CDF" bastidor="WF0EXXGBBEU000015">
+        <marca>Ford</marca>
+        <modelo>Mondeo</modelo>
+        <color>Azul</color>
+        <anio>2015</anio>
+        <categoria>S</categoria>
+        <sucursal>
+            <calle>Calle Rioja 21</calle>
+            <ciudad>Logroño</ciudad>
+            <pais>España</pais>
+            <cp>26001</cp>
+        </sucursal>
+        <combustible>Gasolina</combustible>
+        <precio>138.4</precio>
+        <descuento>18.73</descuento>
+        <costes>
+            <costesIndirectos>46.87</costesIndirectos>
+            <costesDirectos>16.98</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="7788FGH" bastidor="WVWZZZ3CZWE000016">
+        <marca>Volkswagen</marca>
+        <modelo>Passat</modelo>
+        <color>Negro</color>
+        <anio>2013</anio>
+        <categoria>S</categoria>
+        <sucursal>
+            <calle>Calle León 15</calle>
+            <ciudad>León</ciudad>
+            <pais>España</pais>
+            <cp>24001</cp>
+        </sucursal>
+        <combustible>Diésel</combustible>
+        <precio>124.97</precio>
+        <descuento>6.45</descuento>
+        <costes>
+            <costesIndirectos>60.19</costesIndirectos>
+            <costesDirectos>56.93</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="8899JKL" bastidor="JTDKB20U793000017">
+        <marca>Toyota</marca>
+        <modelo>Corolla</modelo>
+        <color>Rojo</color>
+        <anio>2018</anio>
+        <categoria>S</categoria>
+        <sucursal>
+            <calle>Calle Oviedo 19</calle>
+            <ciudad>Oviedo</ciudad>
+            <pais>España</pais>
+            <cp>33001</cp>
+        </sucursal>
+        <combustible>Gasolina</combustible>
+        <precio>110.93</precio>
+        <descuento>13.21</descuento>
+        <costes>
+            <costesIndirectos>34.75</costesIndirectos>
+            <costesDirectos>26.21</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="9900MNP" bastidor="VF7C4HRZR0000018">
+        <marca>Citroën</marca>
+        <modelo>C4</modelo>
+        <color>Blanco</color>
+        <anio>2020</anio>
+        <categoria>S</categoria>
+        <sucursal>
+            <calle>Calle Solana 4</calle>
+            <ciudad>Murcia</ciudad>
+            <pais>España</pais>
+            <cp>30001</cp>
+        </sucursal>
+        <combustible>Diésel</combustible>
+        <precio>423.06</precio>
+        <descuento>18.13</descuento>
+        <costes>
+            <costesIndirectos>5.68</costesIndirectos>
+            <costesDirectos>113.57</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="1111RST" bastidor="WDB2020201F000019">
+        <marca>Mercedes</marca>
+        <modelo>Clase C</modelo>
+        <color>Gris</color>
+        <anio>2021</anio>
+        <categoria>S</categoria>
+        <sucursal>
+            <calle>Calle Sur 8</calle>
+            <ciudad>Cádiz</ciudad>
+            <pais>España</pais>
+            <cp>11001</cp>
+        </sucursal>
+        <combustible>Gasolina</combustible>
+        <precio>142.74</precio>
+        <descuento>11.23</descuento>
+        <costes>
+            <costesIndirectos>65.03</costesIndirectos>
+            <costesDirectos>14.31</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="2222VWX" bastidor="WBA3A9C56DF000020">
+        <marca>BMW</marca>
+        <modelo>Serie 3</modelo>
+        <color>Negro</color>
+        <anio>2017</anio>
+        <categoria>S</categoria>
+        <sucursal>
+            <calle>Av. Mediterráneo 30</calle>
+            <ciudad>Alicante</ciudad>
+            <pais>España</pais>
+            <cp>03001</cp>
+        </sucursal>
+        <combustible>Diésel</combustible>
+        <precio>466.23</precio>
+        <descuento>8.43</descuento>
+        <costes>
+            <costesIndirectos>52.57</costesIndirectos>
+            <costesDirectos>97.33</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="3333YZB" bastidor="WAUZZZF49KA000021">
+        <marca>Audi</marca>
+        <modelo>A4</modelo>
+        <color>Azul</color>
+        <anio>2022</anio>
+        <categoria>P</categoria>
+        <sucursal>
+            <calle>Calle Sol 1</calle>
+            <ciudad>Madrid</ciudad>
+            <pais>España</pais>
+            <cp>28001</cp>
+        </sucursal>
+        <combustible>Gasolina</combustible>
+        <precio>146.0</precio>
+        <descuento>8.54</descuento>
+        <costes>
+            <costesIndirectos>39.81</costesIndirectos>
+            <costesDirectos>49.86</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="4444CDF" bastidor="WBA5A71020D000022">
+        <marca>BMW</marca>
+        <modelo>Serie 5</modelo>
+        <color>Blanco</color>
+        <anio>2021</anio>
+        <categoria>P</categoria>
+        <sucursal>
+            <calle>Calle Luna 2</calle>
+            <ciudad>Madrid</ciudad>
+            <pais>España</pais>
+            <cp>28002</cp>
+        </sucursal>
+        <combustible>Diésel</combustible>
+        <precio>335.98</precio>
+        <descuento>7.09</descuento>
+        <costes>
+            <costesIndirectos>26.86</costesIndirectos>
+            <costesDirectos>107.12</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="5555FGH" bastidor="WDB2120201A000023">
+        <marca>Mercedes</marca>
+        <modelo>Clase E</modelo>
+        <color>Negro</color>
+        <anio>2020</anio>
+        <categoria>P</categoria>
+        <sucursal>
+            <calle>Av. Andalucía 10</calle>
+            <ciudad>Sevilla</ciudad>
+            <pais>España</pais>
+            <cp>41001</cp>
+        </sucursal>
+        <combustible>Gasolina</combustible>
+        <precio>466.26</precio>
+        <descuento>15.35</descuento>
+        <costes>
+            <costesIndirectos>15.66</costesIndirectos>
+            <costesDirectos>56.56</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="6666JKL" bastidor="WDB1760421V000024">
+        <marca>Mercedes</marca>
+        <modelo>Clase A</modelo>
+        <color>Gris</color>
+        <anio>2019</anio>
+        <categoria>P</categoria>
+        <sucursal>
+            <calle>Calle Real 5</calle>
+            <ciudad>Sevilla</ciudad>
+            <pais>España</pais>
+            <cp>41002</cp>
+        </sucursal>
+        <combustible>Diésel</combustible>
+        <precio>247.81</precio>
+        <descuento>13.11</descuento>
+        <costes>
+            <costesIndirectos>3.2</costesIndirectos>
+            <costesDirectos>59.11</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="7777MNP" bastidor="WAUZZZ8X0HB000025">
+        <marca>Audi</marca>
+        <modelo>A1</modelo>
+        <color>Rojo</color>
+        <anio>2018</anio>
+        <categoria>P</categoria>
+        <sucursal>
+            <calle>Gran Vía 20</calle>
+            <ciudad>Barcelona</ciudad>
+            <pais>España</pais>
+            <cp>08001</cp>
+        </sucursal>
+        <combustible>Gasolina</combustible>
+        <precio>468.98</precio>
+        <descuento>3.25</descuento>
+        <costes>
+            <costesIndirectos>71.48</costesIndirectos>
+            <costesDirectos>44.19</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="8888RST" bastidor="VSSZZZ6JZVR000026">
+        <marca>Seat</marca>
+        <modelo>Ibiza</modelo>
+        <color>Negro</color>
+        <anio>2014</anio>
+        <categoria>M</categoria>
+        <sucursal>
+            <calle>Diagonal 33</calle>
+            <ciudad>Barcelona</ciudad>
+            <pais>España</pais>
+            <cp>08002</cp>
+        </sucursal>
+        <combustible>Diésel</combustible>
+        <precio>251.24</precio>
+        <descuento>13.75</descuento>
+        <costes>
+            <costesIndirectos>17.58</costesIndirectos>
+            <costesDirectos>70.3</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="9999VWX" bastidor="JTDKN3DP7C3000027">
+        <marca>Toyota</marca>
+        <modelo>Yaris</modelo>
+        <color>Blanco</color>
+        <anio>2015</anio>
+        <categoria>M</categoria>
+        <sucursal>
+            <calle>Av. Galicia 50</calle>
+            <ciudad>Vigo</ciudad>
+            <pais>España</pais>
+            <cp>36201</cp>
+        </sucursal>
+        <combustible>Gasolina</combustible>
+        <precio>241.34</precio>
+        <descuento>12.54</descuento>
+        <costes>
+            <costesIndirectos>36.04</costesIndirectos>
+            <costesDirectos>80.21</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="1212YZB" bastidor="VF7ZZZC3ZVR000028">
+        <marca>Citroën</marca>
+        <modelo>C3</modelo>
+        <color>Gris</color>
+        <anio>2017</anio>
+        <categoria>M</categoria>
+        <sucursal>
+            <calle>Calle Norte 4</calle>
+            <ciudad>Vigo</ciudad>
+            <pais>España</pais>
+            <cp>36202</cp>
+        </sucursal>
+        <combustible>Diésel</combustible>
+        <precio>252.29</precio>
+        <descuento>10.12</descuento>
+        <costes>
+            <costesIndirectos>102.62</costesIndirectos>
+            <costesDirectos>33.23</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="2323CDF" bastidor="W0L0SDL0856000029">
+        <marca>Opel</marca>
+        <modelo>Corsa</modelo>
+        <color>Azul</color>
+        <anio>2016</anio>
+        <categoria>M</categoria>
+        <sucursal>
+            <calle>Calle Central 11</calle>
+            <ciudad>Valencia</ciudad>
+            <pais>España</pais>
+            <cp>46001</cp>
+        </sucursal>
+        <combustible>Gasolina</combustible>
+        <precio>230.85</precio>
+        <descuento>17.0</descuento>
+        <costes>
+            <costesIndirectos>5.19</costesIndirectos>
+            <costesDirectos>98.8</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="3434FGH" bastidor="VF1CLIO0XJ0000030">
+        <marca>Renault</marca>
+        <modelo>Clio</modelo>
+        <color>Rojo</color>
+        <anio>2018</anio>
+        <categoria>E</categoria>
+        <sucursal>
+            <calle>Av. Puerto 25</calle>
+            <ciudad>Valencia</ciudad>
+            <pais>España</pais>
+            <cp>46002</cp>
+        </sucursal>
+        <combustible>Diésel</combustible>
+        <precio>324.82</precio>
+        <descuento>7.24</descuento>
+        <costes>
+            <costesIndirectos>72.7</costesIndirectos>
+            <costesDirectos>76.55</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="4545JKL" bastidor="VF3CCFHZXR000031">
+        <marca>Peugeot</marca>
+        <modelo>208</modelo>
+        <color>Negro</color>
+        <anio>2019</anio>
+        <categoria>E</categoria>
+        <sucursal>
+            <calle>Calle Mayor 3</calle>
+            <ciudad>Bilbao</ciudad>
+            <pais>España</pais>
+            <cp>48001</cp>
+        </sucursal>
+        <combustible>Gasolina</combustible>
+        <precio>100.06</precio>
+        <descuento>8.31</descuento>
+        <costes>
+            <costesIndirectos>129.01</costesIndirectos>
+            <costesDirectos>16.23</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="5656MNP" bastidor="WVWZZZ6RZWR000032">
+        <marca>Volkswagen</marca>
+        <modelo>Polo</modelo>
+        <color>Gris</color>
+        <anio>2020</anio>
+        <categoria>E</categoria>
+        <sucursal>
+            <calle>Av. Libertad 7</calle>
+            <ciudad>Bilbao</ciudad>
+            <pais>España</pais>
+            <cp>48002</cp>
+        </sucursal>
+        <combustible>Diésel</combustible>
+        <precio>114.16</precio>
+        <descuento>6.19</descuento>
+        <costes>
+            <costesIndirectos>11.62</costesIndirectos>
+            <costesDirectos>113.78</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="6767RST" bastidor="WF0JXXGAJJ2000033">
+        <marca>Ford</marca>
+        <modelo>Fiesta</modelo>
+        <color>Blanco</color>
+        <anio>2013</anio>
+        <categoria>E</categoria>
+        <sucursal>
+            <calle>Calle Castilla 9</calle>
+            <ciudad>Santander</ciudad>
+            <pais>España</pais>
+            <cp>39001</cp>
+        </sucursal>
+        <combustible>Gasolina</combustible>
+        <precio>107.84</precio>
+        <descuento>0.38</descuento>
+        <costes>
+            <costesIndirectos>9.28</costesIndirectos>
+            <costesDirectos>43.54</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="7878VWX" bastidor="VSSZZZ5FZVR000034">
+        <marca>Seat</marca>
+        <modelo>León</modelo>
+        <color>Negro</color>
+        <anio>2015</anio>
+        <categoria>C</categoria>
+        <sucursal>
+            <calle>Calle Prado 12</calle>
+            <ciudad>Toledo</ciudad>
+            <pais>España</pais>
+            <cp>45001</cp>
+        </sucursal>
+        <combustible>Diésel</combustible>
+        <precio>366.11</precio>
+        <descuento>17.7</descuento>
+        <costes>
+            <costesIndirectos>126.96</costesIndirectos>
+            <costesDirectos>17.81</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="8989YZB" bastidor="WVWZZZ1JZVR000035">
+        <marca>Volkswagen</marca>
+        <modelo>Golf</modelo>
+        <color>Azul</color>
+        <anio>2016</anio>
+        <categoria>C</categoria>
+        <sucursal>
+            <calle>Calle Rioja 21</calle>
+            <ciudad>Logroño</ciudad>
+            <pais>España</pais>
+            <cp>26001</cp>
+        </sucursal>
+        <combustible>Gasolina</combustible>
+        <precio>219.79</precio>
+        <descuento>19.85</descuento>
+        <costes>
+            <costesIndirectos>145.51</costesIndirectos>
+            <costesDirectos>3.44</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="9090CDF" bastidor="VF3C5HNZXR000036">
+        <marca>Peugeot</marca>
+        <modelo>308</modelo>
+        <color>Blanco</color>
+        <anio>2018</anio>
+        <categoria>C</categoria>
+        <sucursal>
+            <calle>Calle León 15</calle>
+            <ciudad>León</ciudad>
+            <pais>España</pais>
+            <cp>24001</cp>
+        </sucursal>
+        <combustible>Diésel</combustible>
+        <precio>406.47</precio>
+        <descuento>16.99</descuento>
+        <costes>
+            <costesIndirectos>5.26</costesIndirectos>
+            <costesDirectos>108.84</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="1010FGH" bastidor="W0L0XCF0812000037">
+        <marca>Opel</marca>
+        <modelo>Astra</modelo>
+        <color>Rojo</color>
+        <anio>2019</anio>
+        <categoria>C</categoria>
+        <sucursal>
+            <calle>Calle Oviedo 19</calle>
+            <ciudad>Oviedo</ciudad>
+            <pais>España</pais>
+            <cp>33001</cp>
+        </sucursal>
+        <combustible>Gasolina</combustible>
+        <precio>276.42</precio>
+        <descuento>12.6</descuento>
+        <costes>
+            <costesIndirectos>82.39</costesIndirectos>
+            <costesDirectos>20.02</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="1112JKL" bastidor="VF1BM0F0XH0000038">
+        <marca>Renault</marca>
+        <modelo>Mégane</modelo>
+        <color>Negro</color>
+        <anio>2020</anio>
+        <categoria>C</categoria>
+        <sucursal>
+            <calle>Calle Solana 4</calle>
+            <ciudad>Murcia</ciudad>
+            <pais>España</pais>
+            <cp>30001</cp>
+        </sucursal>
+        <combustible>Diésel</combustible>
+        <precio>401.25</precio>
+        <descuento>12.18</descuento>
+        <costes>
+            <costesIndirectos>83.88</costesIndirectos>
+            <costesDirectos>63.45</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="1213MNP" bastidor="WAUZZZ8V0KA000039">
+        <marca>Audi</marca>
+        <modelo>A3</modelo>
+        <color>Gris</color>
+        <anio>2021</anio>
+        <categoria>C</categoria>
+        <sucursal>
+            <calle>Calle Sur 8</calle>
+            <ciudad>Cádiz</ciudad>
+            <pais>España</pais>
+            <cp>11001</cp>
+        </sucursal>
+        <combustible>Gasolina</combustible>
+        <precio>403.41</precio>
+        <descuento>6.89</descuento>
+        <costes>
+            <costesIndirectos>51.11</costesIndirectos>
+            <costesDirectos>58.53</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="1314RST" bastidor="WF0EXXGBBEM000040">
+        <marca>Ford</marca>
+        <modelo>Mondeo</modelo>
+        <color>Blanco</color>
+        <anio>2017</anio>
+        <categoria>S</categoria>
+        <sucursal>
+            <calle>Av. Mediterráneo 30</calle>
+            <ciudad>Alicante</ciudad>
+            <pais>España</pais>
+            <cp>03001</cp>
+        </sucursal>
+        <combustible>Diésel</combustible>
+        <precio>238.35</precio>
+        <descuento>11.95</descuento>
+        <costes>
+            <costesIndirectos>63.35</costesIndirectos>
+            <costesDirectos>19.87</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="1415VWX" bastidor="WVWZZZ3CZWR000041">
+        <marca>Volkswagen</marca>
+        <modelo>Passat</modelo>
+        <color>Rojo</color>
+        <anio>2016</anio>
+        <categoria>S</categoria>
+        <sucursal>
+            <calle>Calle Sol 1</calle>
+            <ciudad>Madrid</ciudad>
+            <pais>España</pais>
+            <cp>28001</cp>
+        </sucursal>
+        <combustible>Gasolina</combustible>
+        <precio>478.29</precio>
+        <descuento>10.54</descuento>
+        <costes>
+            <costesIndirectos>135.62</costesIndirectos>
+            <costesDirectos>1.44</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="1516YZB" bastidor="JTDKB20U7A3000042">
+        <marca>Toyota</marca>
+        <modelo>Corolla</modelo>
+        <color>Azul</color>
+        <anio>2018</anio>
+        <categoria>S</categoria>
+        <sucursal>
+            <calle>Calle Luna 2</calle>
+            <ciudad>Madrid</ciudad>
+            <pais>España</pais>
+            <cp>28002</cp>
+        </sucursal>
+        <combustible>Diésel</combustible>
+        <precio>128.04</precio>
+        <descuento>18.94</descuento>
+        <costes>
+            <costesIndirectos>48.97</costesIndirectos>
+            <costesDirectos>52.94</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="1617CDF" bastidor="VF7C4HRZR0000043">
+        <marca>Citroën</marca>
+        <modelo>C4</modelo>
+        <color>Negro</color>
+        <anio>2020</anio>
+        <categoria>S</categoria>
+        <sucursal>
+            <calle>Av. Andalucía 10</calle>
+            <ciudad>Sevilla</ciudad>
+            <pais>España</pais>
+            <cp>41001</cp>
+        </sucursal>
+        <combustible>Gasolina</combustible>
+        <precio>190.36</precio>
+        <descuento>14.47</descuento>
+        <costes>
+            <costesIndirectos>102.32</costesIndirectos>
+            <costesDirectos>4.26</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="1718FGH" bastidor="WDB2020201H000044">
+        <marca>Mercedes</marca>
+        <modelo>Clase C</modelo>
+        <color>Gris</color>
+        <anio>2019</anio>
+        <categoria>S</categoria>
+        <sucursal>
+            <calle>Calle Real 5</calle>
+            <ciudad>Sevilla</ciudad>
+            <pais>España</pais>
+            <cp>41002</cp>
+        </sucursal>
+        <combustible>Diésel</combustible>
+        <precio>486.91</precio>
+        <descuento>11.52</descuento>
+        <costes>
+            <costesIndirectos>13.75</costesIndirectos>
+            <costesDirectos>39.42</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="1819JKL" bastidor="WBA3A9C56EF000045">
+        <marca>BMW</marca>
+        <modelo>Serie 3</modelo>
+        <color>Blanco</color>
+        <anio>2015</anio>
+        <categoria>S</categoria>
+        <sucursal>
+            <calle>Gran Vía 20</calle>
+            <ciudad>Barcelona</ciudad>
+            <pais>España</pais>
+            <cp>08001</cp>
+        </sucursal>
+        <combustible>Gasolina</combustible>
+        <precio>223.6</precio>
+        <descuento>2.44</descuento>
+        <costes>
+            <costesIndirectos>2.81</costesIndirectos>
+            <costesDirectos>63.34</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="1920MNP" bastidor="WAUZZZF49KA000046">
+        <marca>Audi</marca>
+        <modelo>A4</modelo>
+        <color>Negro</color>
+        <anio>2022</anio>
+        <categoria>P</categoria>
+        <sucursal>
+            <calle>Diagonal 33</calle>
+            <ciudad>Barcelona</ciudad>
+            <pais>España</pais>
+            <cp>08002</cp>
+        </sucursal>
+        <combustible>Diésel</combustible>
+        <precio>170.32</precio>
+        <descuento>13.69</descuento>
+        <costes>
+            <costesIndirectos>79.61</costesIndirectos>
+            <costesDirectos>1.48</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="2021RST" bastidor="WBA5A71020E000047">
+        <marca>BMW</marca>
+        <modelo>Serie 5</modelo>
+        <color>Rojo</color>
+        <anio>2021</anio>
+        <categoria>P</categoria>
+        <sucursal>
+            <calle>Av. Galicia 50</calle>
+            <ciudad>Vigo</ciudad>
+            <pais>España</pais>
+            <cp>36201</cp>
+        </sucursal>
+        <combustible>Gasolina</combustible>
+        <precio>337.17</precio>
+        <descuento>13.18</descuento>
+        <costes>
+            <costesIndirectos>93.82</costesIndirectos>
+            <costesDirectos>6.48</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="2122VWX" bastidor="WDB2120201B000048">
+        <marca>Mercedes</marca>
+        <modelo>Clase E</modelo>
+        <color>Azul</color>
+        <anio>2020</anio>
+        <categoria>P</categoria>
+        <sucursal>
+            <calle>Calle Norte 4</calle>
+            <ciudad>Vigo</ciudad>
+            <pais>España</pais>
+            <cp>36202</cp>
+        </sucursal>
+        <combustible>Diésel</combustible>
+        <precio>141.39</precio>
+        <descuento>15.23</descuento>
+        <costes>
+            <costesIndirectos>7.53</costesIndirectos>
+            <costesDirectos>110.75</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="2223YZB" bastidor="WDB1760421K000049">
+        <marca>Mercedes</marca>
+        <modelo>Clase A</modelo>
+        <color>Blanco</color>
+        <anio>2017</anio>
+        <categoria>P</categoria>
+        <sucursal>
+            <calle>Calle Central 11</calle>
+            <ciudad>Valencia</ciudad>
+            <pais>España</pais>
+            <cp>46001</cp>
+        </sucursal>
+        <combustible>Gasolina</combustible>
+        <precio>238.98</precio>
+        <descuento>2.48</descuento>
+        <costes>
+            <costesIndirectos>50.73</costesIndirectos>
+            <costesDirectos>75.92</costesDirectos>
+        </costes>
+    </vehiculo>
+    <vehiculo matricula="2324CDF" bastidor="WAUZZZ8X0HB000050">
+        <marca>Audi</marca>
+        <modelo>A1</modelo>
+        <color>Gris</color>
+        <anio>2016</anio>
+        <categoria>P</categoria>
+        <sucursal>
+            <calle>Av. Puerto 25</calle>
+            <ciudad>Valencia</ciudad>
+            <pais>España</pais>
+            <cp>46002</cp>
+        </sucursal>
+        <combustible>Diésel</combustible>
+        <precio>171.84</precio>
+        <descuento>18.59</descuento>
+        <costes>
+            <costesIndirectos>27.53</costesIndirectos>
+            <costesDirectos>40.6</costesDirectos>
+        </costes>
+    </vehiculo>
+</Vehiculos>
