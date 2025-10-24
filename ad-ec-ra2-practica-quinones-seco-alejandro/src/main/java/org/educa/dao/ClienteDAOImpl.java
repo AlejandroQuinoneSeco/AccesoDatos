@@ -7,7 +7,13 @@ import java.sql.*;
 
 public class ClienteDAOImpl implements ClienteDAO {
 
-
+    /**
+     * Busca un cliente por su DNI.
+     *
+     * @param dni el DNI del cliente a buscar
+     * @return la entidad ClienteEntity encontrada, o null si no existe
+     * @throws SQLException si ocurre un error al acceder a la base de datos
+     */
     @Override
     public ClienteEntity findByDni(String dni) throws SQLException {
         String sql = "SELECT id_cliente, nombre, p_apellido, s_apellido, email, dni, telefono " +
@@ -35,9 +41,17 @@ public class ClienteDAOImpl implements ClienteDAO {
         return null;
     }
 
+    /**
+     * Guarda un nuevo cliente en la base de datos dentro de una transacción.
+     * Tras la inserción, actualiza el ID del cliente en la entidad proporcionada.
+     *
+     * @param connection la conexión a la base de datos para usar en la transacción
+     * @param cliente la entidad ClienteEntity a guardar con todos sus datos
+     * @throws SQLException si ocurre un error al insertar en la base de datos
+     */
     @Override
     public void save(Connection connection, ClienteEntity cliente) throws SQLException {
-        String sql = "INSERT into cliente (nombre, p_apellido, segundo_apellido, email, dni, telefono)" +
+        String sql = "INSERT INTO cliente (nombre, p_apellido, s_apellido, email, dni, telefono) " +
                 "VALUES (?, ?, ?, ?, ?, ?) RETURNING id_cliente";
 
         try (PreparedStatement ps = connection.prepareStatement(sql)) {

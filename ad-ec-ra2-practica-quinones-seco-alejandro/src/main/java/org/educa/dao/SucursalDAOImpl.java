@@ -12,6 +12,14 @@ import java.util.List;
 
 public class SucursalDAOImpl implements SucursalDAO {
 
+    /**
+     * Obtiene todas las sucursales registradas en el sistema.
+     * Las sucursales se devuelven ordenadas por ciudad y calle.
+     *
+     * @return una lista con todas las entidades SucursalEntity disponibles,
+     *         o una lista vacía si no hay sucursales registradas
+     * @throws SQLException si ocurre un error al acceder a la base de datos
+     */
     @Override
     public List<SucursalEntity> findAll() throws SQLException {
         List<SucursalEntity> sucursales = new ArrayList<>();

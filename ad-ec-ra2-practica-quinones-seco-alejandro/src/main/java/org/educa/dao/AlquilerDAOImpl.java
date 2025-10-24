@@ -11,6 +11,15 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class AlquilerDAOImpl implements AlquilerDAO {
+    /**
+     * Busca todos los alquileres realizados por un cliente específico.
+     * Los alquileres se devuelven ordenados por fecha de inicio de forma descendente.
+     *
+     * @param idCliente el identificador único del cliente
+     * @return una lista de entidades AlquilerEntity correspondientes al cliente,
+     *         o una lista vacía si el cliente no tiene alquileres
+     * @throws SQLException si ocurre un error al acceder a la base de datos
+     */
     @Override
     public List<AlquilerEntity> findByCliente(Integer idCliente) throws SQLException {
         List<AlquilerEntity> alquileres = new ArrayList<>();
@@ -55,6 +64,14 @@ public class AlquilerDAOImpl implements AlquilerDAO {
         return alquileres;
     }
 
+    /**
+     * Guarda un nuevo alquiler en la base de datos.
+     * Tras la inserción, actualiza el ID del alquiler en la entidad proporcionada.
+     *
+     * @param alquiler la entidad AlquilerEntity a guardar, debe contener todos
+     *                 los datos necesarios (cliente, vehículo, seguro, fechas y precio)
+     * @throws SQLException si ocurre un error al insertar en la base de datos
+     */
     @Override
     public void save(AlquilerEntity alquiler) throws SQLException {
         String sql = "INSERT INTO alquiler (fecha_ini, fecha_fin, id_cliente, id_vehiculo, id_seguro, precio) " +

@@ -14,6 +14,16 @@ import java.util.List;
 
 public class VehiculoDAOImpl implements VehiculoDAO {
 
+    /**
+     * Busca todos los vehículos disponibles en una sucursal específica.
+     * Los vehículos se devuelven ordenados por marca y modelo, e incluyen
+     * información completa de su categoría y sucursal.
+     *
+     * @param idSucursal el identificador único de la sucursal
+     * @return una lista de entidades VehiculoEntity disponibles en la sucursal,
+     *         o una lista vacía si no hay vehículos en esa sucursal
+     * @throws SQLException si ocurre un error al acceder a la base de datos
+     */
     @Override
     public List<VehiculoEntity> findBySucursal(Integer idSucursal) throws SQLException {
         List<VehiculoEntity> vehiculos = new ArrayList<>();
@@ -65,6 +75,15 @@ public class VehiculoDAOImpl implements VehiculoDAO {
         return vehiculos;
     }
 
+    /**
+     * Busca un vehículo por su identificador único.
+     * El vehículo incluye información completa de su categoría y sucursal.
+     *
+     * @param idVehiculo el identificador único del vehículo
+     * @return la entidad VehiculoEntity encontrada con toda su información,
+     *         o null si no existe
+     * @throws SQLException si ocurre un error al acceder a la base de datos
+     */
     @Override
     public VehiculoEntity findById(Integer idVehiculo) throws SQLException {
         String sql = "SELECT v.id_vehiculo, v.matricula, v.bastidor, v.marca, v.modelo, v.color, v.anio, " +
